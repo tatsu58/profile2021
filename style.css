@@ -1,0 +1,39 @@
+p {
+  line-height: 40px;
+  letter-spacing: .1em;
+  color: #546e7a;
+  text-align: justify;
+}
+
+li {
+  color: #546e7a;
+}
+
+div.img-hidden {
+  overflow: hidden;
+}
+
+div.container {
+  margin-top: 40px;
+}
+
+div.container-m h2 {
+  text-align: center;
+}
+
+
+
+footer {
+  background-color: #343a40;
+  height: 60px;
+  color: #fff;
+  text-align: center;
+}
+
+footer p {
+  line-height: 60px;
+}
+
+.fab  {
+  size: 3x;
+}
